@@ -4,6 +4,8 @@
 
 [![Try Here](https://img.shields.io/badge/🚀%20Try%20Here-thorifzhafran.github.io%2FPDF--Image--Watermarker-3552d4?style=for-the-badge&logoColor=white)](https://thorifzhafran.github.io/PDF-Image-Watermarker/)
 
+![PDF & Image Watermarker Thumbnail](https://raw.githubusercontent.com/thorifzhafran/PDF-Image-Watermarker/main/pdf-image-watermarker-thumbnail.webp)
+
 ---
 
 ## 🔒 Why Frontend-Only?
